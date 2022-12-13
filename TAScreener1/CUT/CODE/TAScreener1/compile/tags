@@ -1,0 +1,6 @@
+Mmain	../src/main.c	/^int main()$/
+freeLinkedList	../src/showMovingAverage.c	/^void freeLinkedList(candle* head)$/
+loadStockData	../src/load.c	/^void loadStockData(FILE** fptr, candle** head) $/
+printStockList	../src/load.c	/^void printStockList(candle *head)$/
+selectChoice	../src/select.c	/^void selectChoice(FILE** fptr)$/
+showMovingAverage	../src/showMovingAverage.c	/^void showMovingAverage(candle *head)$/

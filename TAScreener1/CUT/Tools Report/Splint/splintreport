@@ -1,0 +1,13 @@
+kanchan@kanchan-VirtualBox:~/Desktop/TAScreener1/src$ splint main.c
+Splint 3.1.2 --- 20 Feb 2018
+
+main.c:2:18: Cannot find include file main.h on search path:
+                /home/kanchan/Desktop/TAScreener1/src;/usr/include/x86_64-linux-
+                gnu;/usr/include
+  Preprocessing error. (Use -preproc to inhibit warning)
+main.c:3:20: Cannot find include file struct.h on search path:
+                /home/kanchan/Desktop/TAScreener1/src;/usr/include/x86_64-linux-
+                gnu;/usr/include
+Preprocessing error for file: /home/kanchan/Desktop/TAScreener1/src/main.c
+*** Cannot continue.
+
